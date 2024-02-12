@@ -1,7 +1,7 @@
 {
   "name": "front_end",
   "version": "1.0.0",
-  "description": "",
+  "description": "Front-End for the API Project Node.js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
